@@ -1,0 +1,6 @@
+{
+  "name": "@wesionaryteam/react-payment-inputs/images/mastercard",
+  "private": true,
+  "main": "../../lib/images/mastercard",
+  "module": "../../es/images/mastercard"
+}

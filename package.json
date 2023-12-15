@@ -1,0 +1,25 @@
+{
+  "name": "@wesionaryteam/react-payment-inputs",
+  "version": "1.1.9",
+  "description": "",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "unpkg": "umd/react-payment-inputs.min.js",
+  "files": [
+    "css",
+    "es",
+    "lib",
+    "umd",
+    "images"
+  ],
+  "dependencies": {},
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "styled-components": ">=4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "repository": "https://github.com/wesionaryTEAM/build-react-payment-inputs.git"
+}

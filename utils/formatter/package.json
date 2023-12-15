@@ -1,0 +1,6 @@
+{
+  "name": "@wesionaryteam/react-payment-inputs/utils/formatter",
+  "private": true,
+  "main": "../../lib/utils/formatter",
+  "module": "../../es/utils/formatter"
+}

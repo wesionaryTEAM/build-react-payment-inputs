@@ -1,0 +1,6 @@
+{
+  "name": "@wesionaryteam/react-payment-inputs/styled",
+  "private": true,
+  "main": "../lib/styled",
+  "module": "../es/styled"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@wesionaryteam/react-payment-inputs/styled/PaymentInputsContainer",
+  "private": true,
+  "main": "../../lib/styled/PaymentInputsContainer",
+  "module": "../../es/styled/PaymentInputsContainer"
+}

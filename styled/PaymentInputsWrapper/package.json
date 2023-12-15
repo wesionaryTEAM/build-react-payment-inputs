@@ -1,0 +1,6 @@
+{
+  "name": "@wesionaryteam/react-payment-inputs/styled/PaymentInputsWrapper",
+  "private": true,
+  "main": "../../lib/styled/PaymentInputsWrapper",
+  "module": "../../es/styled/PaymentInputsWrapper"
+}

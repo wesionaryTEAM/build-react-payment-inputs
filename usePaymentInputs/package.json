@@ -1,0 +1,6 @@
+{
+  "name": "@wesionaryteam/react-payment-inputs/usePaymentInputs",
+  "private": true,
+  "main": "../lib/usePaymentInputs",
+  "module": "../es/usePaymentInputs"
+}

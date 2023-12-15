@@ -1,0 +1,6 @@
+{
+  "name": "@wesionaryteam/react-payment-inputs/utils/validator",
+  "private": true,
+  "main": "../../lib/utils/validator",
+  "module": "../../es/utils/validator"
+}
